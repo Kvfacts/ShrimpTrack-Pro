@@ -1,0 +1,6 @@
+{
+  "name": "AquaShrimp",
+  "description": "Aquaculture monitoring for shrimp culture to track feed usage, medications, sampling counts, seed valuations, scheduled check tray alarms, and growth analytics under owner profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
